@@ -233,9 +233,9 @@ Through this assignment, I learned:
 
 ## 👨‍💻 Author
 
-**Alok Kumar**
+**Mritunjai**
 
-GitHub: [@demonslayer8](https://github.com/demonslayer8)
+GitHub: https://github.com/itzsonu/nextjs-product-api-zod-validation/edit/main/README.md
 
 ---
 
